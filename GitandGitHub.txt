@@ -1,0 +1,13 @@
+GitandGitHub.txt
+
+>> For the first time need to configure Github in our system
+
+git config --global user.name "thomasjr05"
+git config --global user.email "sanoop5696@gmail.com"
+
+
+Mandatory commands:
+>> git init
+>>git remote add origin https://github.com/ThomasJr05/Tutedue.git
+
+git pull origin main
